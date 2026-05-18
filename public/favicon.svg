@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#9d4edd"/>
+      <stop offset="100%" stop-color="#7b2cbf"/>
+    </linearGradient>
+  </defs>
+  <!-- Shadow layer -->
+  <rect x="14" y="14" width="104" height="104" rx="24" fill="#000"/>
+  <!-- Main card -->
+  <rect x="8" y="8" width="104" height="104" rx="24" fill="url(#g)" stroke="#000" stroke-width="5"/>
+  <!-- Tusk icon (stylized T) -->
+  <text x="60" y="88" font-family="sans-serif" font-weight="900" font-size="72" fill="#00f5d4" stroke="#000" stroke-width="3" text-anchor="middle">T</text>
+  <!-- Accent dot -->
+  <circle cx="88" cy="32" r="10" fill="#fee440" stroke="#000" stroke-width="3"/>
+</svg>

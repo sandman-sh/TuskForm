@@ -1,0 +1,1 @@
+{"jsonrpc":"2.0","id":1,"method":"suix_getObject","params":["0xda1600726fa97dece8305778e220a351c7670eb828c454bceacd6d280eb7ac16", {"showContent": true}]}
